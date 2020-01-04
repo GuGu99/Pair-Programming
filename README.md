@@ -1,2 +1,3 @@
 # Pair-Programming
-원호와 함께하는 즐거운 짝 프로그래밍
+
+Practice TDD and Algorithm Test with [Las-Wonho](https://github.com/Las-Wonho)
